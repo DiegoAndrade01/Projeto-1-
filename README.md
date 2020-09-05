@@ -1,10 +1,5 @@
 # Projeto_1
 
-
----
-layout: default
----
-
 # Analise_Startup
 
 # Análise Estratégica de Negócio
